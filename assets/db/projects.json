@@ -7,32 +7,35 @@
     "endDate": "Present",
     "descriptions": [
       "Built an interactive visual diff and highlight interface in Next.js for document comparison results.",
-      "Optimized Strands Agents in FastAPI using context-aware routing, batch processing, and parallel execution."
+      "Optimized Strands Agents in FastAPI using caching, context-aware routing, batch processing, and parallel execution."
     ],
+    "keyTechs": ["FastAPI", "Next.js", "Strands Agents", "OpenDataLoader", "Supabase"],
     "teamsize": 3
   },
   {
     "name": "Digital Grading and Evaluation System",
     "myRole": "Full-stack Engineer",
-    "shortDes": "Grading and evaluation platform developed for elementary, middle, and high schools.",
+    "shortDes": "Grading and evaluation platform developed for elementary, middle, and high schools in Japan.",
     "startDate": "11/2025",
     "endDate": "06/2026",
     "descriptions": [
-      "Refactored legacy evaluation modules using Next.js, Nest.js, and Keycloak RBAC.",
-      "Investigated and patched authorization bypass vulnerabilities and legacy encryption flaws."
+      "Refactored legacy resource sharing management modules using Next.js, Nest.js, and Keycloak RBAC.",
+      "Handled long-running tasks end-to-end: optimized backend processing via batching and parallel execution, paired with async status polling on the frontend."
     ],
+    "keyTechs": ["Nest.js", "Next.js", "PostgreSQL", "KeyCloak", "Azure DevOps"],
     "teamsize": 10
   },
   {
     "name": "B2B-focused Matching Platform",
     "myRole": "Full-stack Engineer",
-    "shortDes": "B2B platform that matches software development companies with prime contracts.",
+    "shortDes": "B2B platform connects software development companies with key contracts and manages engineering teams.",
     "startDate": "09/2024",
     "endDate": "10/2025",
     "descriptions": [
-      "Built modular Next.js UI components integrated with Elasticsearch for contract matching.",
+      "Developed dynamic table views and customizable column layouts for users to filter and browse complex records.",
       "Created prompt harnesses and guidelines for AI agents to generate system modules."
     ],
+    "keyTechs": ["FastAPI", "Next.js", "SQLAlchemy", "PostgreSQL", "Elasticsearch", "Docker"],
     "teamsize": 11
   },
   {
@@ -45,6 +48,7 @@
       "Migrated a monolithic Meteor.js application to Express.js and Next.js, improving page load speeds and code maintainability.",
       "Wrote automated shell scripts to handle scheduled backups for self-hosted MongoDB instances."
     ],
+    "keyTechs": ["Nest.js", "Next.js", "Prisma", "MongoDB", "Stripe"],
     "teamsize": 7
   },
   {
@@ -57,6 +61,7 @@
       "Researched open-source platforms and implemented core catalog services in FastAPI.",
       "Onboarded and mentored new engineers on team workflows and codebase conventions."
     ],
+    "keyTechs": ["FastAPI", "PostgreSQL", "Docker"],
     "teamsize": 8
   },
   {
@@ -69,6 +74,7 @@
       "Built referral tracking interfaces and campaign analytics dashboards with AngularJS and Bootstrap.",
       "Resolved race conditions during concurrent data synchronizations across third-party SaaS platforms."
     ],
+    "keyTechs": ["AngularJS", "Express.js", "MongoDB", "Redis"],
     "teamsize": 3
   },
   {
@@ -79,8 +85,9 @@
     "endDate": "06/2023",
     "descriptions": [
       "Built dynamic role-based authentication middleware and designer matching APIs in FastAPI.",
-      "Scoped new feature requirements with the product team, outlining technical constraints and implementation plans."
+      "Incorporated Stripe Payments API to establish a robust subscription system."
     ],
+    "keyTechs": ["FastAPI", "PostgreSQL", "Docker", "Stripe"],
     "teamsize": 6
   }
 ]
