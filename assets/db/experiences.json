@@ -7,9 +7,9 @@
     "descriptions": [
       "Designed REST API contracts and database schemas, developing features end-to-end with FastAPI and Next.js.",
       "Investigated, reproduced, and patched critical vulnerabilities, including role-based authorization bypasses and XSS.",
-      "Reviewed pull requests and enforced coding standards, improving maintainability across backend and frontend modules.",
+      "Reviewed pull requests and enforced coding standards, improving maintainability across backend and frontend.",
       "Built harness workflows to integrate AI agents into the SDLC, improving code generation quality for new modules.",
-      "Attended meetings with business partners, testing teams, and teammates to discuss requirements and resolve issues."
+      "Collaborated with cross-functional teams to align on project requirements and troubleshoot issues."
     ],
     "techs": [
       "Python",
