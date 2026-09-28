@@ -80,7 +80,7 @@
       "Built referral tracking interfaces and campaign analytics dashboards with AngularJS and Bootstrap.",
       "Resolved race conditions during concurrent data synchronizations across third-party SaaS platforms."
     ],
-    "keyTechs": ["AngularJS", "Express.js", "MongoDB", "Redis"],
+    "keyTechs": ["AngularJS", "Express.js", "MongoDB", "Redis", "PM2"],
     "teamsize": 3
   },
   {
