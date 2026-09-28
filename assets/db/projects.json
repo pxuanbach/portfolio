@@ -3,7 +3,7 @@
     "name": "Doc Compare & Highlight Agent",
     "company": "SHIFT ASIA",
     "myRole": "Full-stack Engineer",
-    "shortDes": "Agentic workflow that reads documents to compare and highlight differences against user queries.",
+    "shortDes": "Agentic AI application that reads documents to compare and highlight differences against user queries.",
     "startDate": "07/2026",
     "endDate": "Present",
     "descriptions": [
@@ -22,7 +22,7 @@
     "endDate": "06/2026",
     "descriptions": [
       "Refactored legacy resource sharing management modules using Next.js, Nest.js, and Keycloak RBAC.",
-      "Handled long-running tasks end-to-end: optimized backend processing via batching and parallel execution, paired with async status polling on the frontend."
+      "Handled long-running tasks end-to-end: optimized backend processing, paired with async status polling on the frontend."
     ],
     "keyTechs": ["Nest.js", "Next.js", "PostgreSQL", "KeyCloak", "Azure DevOps"],
     "teamsize": 10
